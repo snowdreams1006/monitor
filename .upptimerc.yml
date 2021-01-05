@@ -6,31 +6,40 @@ repo: monitor # Your GitHub repository name
 sites:
   - name: blog
     url: https://blog.snowdreams1006.cn
+    icon: https://snowdreams1006.cn/favicon.ico
   - name: tools
     url: https://tools.snowdreams1006.cn
+    icon: https://snowdreams1006.cn/favicon.ico
   - name: easy
     url: https://easy.snowdreams1006.cn
+    icon: https://snowdreams1006.cn/favicon.ico
   - name: regex
     url: https://regex.snowdreams1006.cn
+    icon: https://snowdreams1006.cn/favicon.ico
   - name: regex-docs
     url: https://regex-docs.snowdreams1006.cn
+    icon: https://snowdreams1006.cn/favicon.ico
   - name: mermaid-editor
     url: https://mermaid-editor.snowdreams1006.cn
+    icon: https://snowdreams1006.cn/favicon.ico
   - name: bark
     url: https://bark.snowdreams1006.cn
+    icon: https://snowdreams1006.cn/favicon.ico
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: webhook
     url: https://webhook.snowdreams1006.cn
+    icon: https://snowdreams1006.cn/favicon.ico
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: Secret Site
     url: $SECRET_SITE
-    
+    icon: https://snowdreams1006.cn/favicon.ico
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: monitor.snowdreams1006.cn
