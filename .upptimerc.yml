@@ -1,6 +1,6 @@
 # Change these first
 owner: snowdreams1006 # Your GitHub username
-repo: monitor.snowdreams1006.cn # Your GitHub repository name
+repo: monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -27,8 +27,8 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: monitor.snowdreams1006.cn
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /monitor.snowdreams1006.cn
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: /monitor
+  logoUrl: https://snowdreams1006.github.io/snowdreams1006.png
   name: monitor.snowdreams1006.cn
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
