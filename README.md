@@ -27,7 +27,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://snowdreams1006.github.io/monitor.snowdreams1006.cn)
+[**Visit our status website →**](https://snowdreams1006.github.io/monitor)
 
 ## 📄 License
 
