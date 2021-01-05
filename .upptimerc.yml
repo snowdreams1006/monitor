@@ -18,8 +18,16 @@ sites:
     url: https://mermaid-editor.snowdreams1006.cn
   - name: bark
     url: https://bark.snowdreams1006.cn
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: webhook
     url: https://webhook.snowdreams1006.cn
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
