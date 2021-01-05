@@ -20,8 +20,6 @@ sites:
     url: https://bark.snowdreams1006.cn
   - name: webhook
     url: https://webhook.snowdreams1006.cn
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
