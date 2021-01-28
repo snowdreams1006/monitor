@@ -45,6 +45,11 @@ sites:
   - name: e6yun
     url: https://login.e6yun.com/Home/Index
     icon: https://login.e6yun.com/favicon.ico
+  - name: huoyunren
+    url: http://gas.huoyunren.com/index.php?m=login&f=index
+    icon: http://gas.huoyunren.com/favicon.ico
+
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
