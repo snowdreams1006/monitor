@@ -49,10 +49,10 @@ sites:
     url: https://gas.huoyunren.com/index.php?m=login&f=index
     icon: https://gas.huoyunren.com/favicon.ico
   - name: zjetc
-    url: https://www.zjetc.net/
+    url: https://www.zjetc.net/login.html
     icon: https://www.zjetc.net/images/head/ico.png
   - name: maersk
-    url: https://www.maersk.com.cn/
+    url: https://www.maersk.com.cn/portaluser/login
     icon: https://assets.maerskline.com/img/fav-icons/maeu.ico
 
 
