@@ -48,6 +48,9 @@ sites:
   - name: huoyunren
     url: http://gas.huoyunren.com/index.php?m=login&f=index
     icon: http://gas.huoyunren.com/favicon.ico
+ - name: zjetc
+    url: http://www.zjetc.net/
+    icon: http://www.zjetc.net/images/head/ico.png
 
 
 
