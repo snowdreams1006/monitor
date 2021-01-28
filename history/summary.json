@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 2885,
-    "timeDay": 2163,
-    "timeWeek": 4005,
-    "timeMonth": 2885,
-    "timeYear": 2885,
+    "time": 2866,
+    "timeDay": 2246,
+    "timeWeek": 3796,
+    "timeMonth": 2866,
+    "timeYear": 2866,
     "dailyMinutesDown": {
       "2021-01-05": 55
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1819,
-    "timeDay": 1356,
-    "timeWeek": 2568,
-    "timeMonth": 1819,
-    "timeYear": 1819,
+    "time": 1806,
+    "timeDay": 1397,
+    "timeWeek": 2427,
+    "timeMonth": 1806,
+    "timeYear": 1806,
     "dailyMinutesDown": {
       "2021-01-05": 55
     }
@@ -45,18 +45,18 @@
     "icon": "https://snowdreams1006.cn/favicon.ico",
     "slug": "easy",
     "status": "down",
-    "uptime": "42.61%",
+    "uptime": "42.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.61%",
-    "uptimeYear": "42.61%",
-    "time": 2267,
-    "timeDay": 1733,
-    "timeWeek": 2112,
-    "timeMonth": 2267,
-    "timeYear": 2267,
+    "uptimeMonth": "42.38%",
+    "uptimeYear": "42.38%",
+    "time": 2282,
+    "timeDay": 2228,
+    "timeWeek": 2188,
+    "timeMonth": 2282,
+    "timeYear": 2282,
     "dailyMinutesDown": {
-      "2021-01-28": 45,
+      "2021-01-28": 216,
       "2021-01-27": 1440,
       "2021-01-26": 1440,
       "2021-01-25": 1440,
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1593,
-    "timeDay": 1405,
-    "timeWeek": 1836,
-    "timeMonth": 1593,
-    "timeYear": 1593,
+    "time": 1589,
+    "timeDay": 1436,
+    "timeWeek": 1790,
+    "timeMonth": 1589,
+    "timeYear": 1589,
     "dailyMinutesDown": {
       "2021-01-05": 55
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1522,
-    "timeDay": 1225,
-    "timeWeek": 2159,
-    "timeMonth": 1522,
-    "timeYear": 1522,
+    "time": 1546,
+    "timeDay": 1726,
+    "timeWeek": 2168,
+    "timeMonth": 1546,
+    "timeYear": 1546,
     "dailyMinutesDown": {
       "2021-01-05": 55
     }
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1508,
-    "timeDay": 2374,
-    "timeWeek": 1788,
-    "timeMonth": 1508,
-    "timeYear": 1508,
+    "time": 1505,
+    "timeDay": 1896,
+    "timeWeek": 1742,
+    "timeMonth": 1505,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2021-01-05": 55
     }
@@ -144,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 1489,
-    "timeDay": 1347,
-    "timeWeek": 1319,
-    "timeMonth": 1489,
-    "timeYear": 1489,
+    "time": 1481,
+    "timeDay": 1299,
+    "timeWeek": 1310,
+    "timeMonth": 1481,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2021-01-05": 61
     }
@@ -164,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 1535,
-    "timeDay": 2120,
-    "timeWeek": 1968,
-    "timeMonth": 1535,
-    "timeYear": 1535,
+    "time": 1553,
+    "timeDay": 2090,
+    "timeWeek": 1979,
+    "timeMonth": 1553,
+    "timeYear": 1553,
     "dailyMinutesDown": {
       "2021-01-05": 61
     }
@@ -184,15 +184,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.29%",
-    "time": 2869,
-    "timeDay": 2232,
-    "timeWeek": 4131,
-    "timeMonth": 2869,
-    "timeYear": 2869,
+    "time": 2928,
+    "timeDay": 3377,
+    "timeWeek": 4180,
+    "timeMonth": 2928,
+    "timeYear": 2928,
     "dailyMinutesDown": {
       "2021-01-15": 32,
       "2021-01-11": 18,
       "2021-01-05": 180
     }
+  },
+  {
+    "name": "ywdxwl",
+    "url": "https://www.ywdxwl.com/",
+    "icon": "https://www.ywdxwl.com/static/favicon.ico",
+    "slug": "ywdxwl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1630,
+    "timeDay": 1630,
+    "timeWeek": 1630,
+    "timeMonth": 1630,
+    "timeYear": 1630,
+    "dailyMinutesDown": {}
   }
 ]
