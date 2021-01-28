@@ -39,6 +39,9 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
     icon: https://snowdreams1006.cn/favicon.ico
+  - name: ywdxwl
+    url: https://www.ywdxwl.com/
+    icon: https://www.ywdxwl.com/static/favicon.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
