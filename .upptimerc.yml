@@ -51,7 +51,9 @@ sites:
  - name: zjetc
     url: http://www.zjetc.net/
     icon: http://www.zjetc.net/images/head/ico.png
-
+ - name: maersk
+    url: https://www.maersk.com.cn/
+    icon: https://assets.maerskline.com/img/fav-icons/maeu.ico
 
 
 status-website:
