@@ -1,6 +1,7 @@
 # Change these first
 owner: snowdreams1006 # Your GitHub username
 repo: monitor # Your GitHub repository name
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 # copy(navigator.userAgent)
 
 # Add your sites here
 sites:
@@ -51,6 +52,7 @@ sites:
   - name: zjetc
     url: https://www.zjetc.net/login.html
     icon: https://www.zjetc.net/images/head/ico.png
+    method: GET
   - name: maersk
     url: https://www.maersk.com.cn/portaluser/login
     icon: https://assets.maerskline.com/img/fav-icons/maeu.ico
