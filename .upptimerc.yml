@@ -1,7 +1,7 @@
 # Change these first
 owner: snowdreams1006 # Your GitHub username
 repo: monitor # Your GitHub repository name
-user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 # copy(navigator.userAgent)
+user-agent: snowdreams1006 # It is recommended to use your GitHub username here:
 
 # Add your sites here
 sites:
