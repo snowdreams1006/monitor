@@ -60,6 +60,8 @@ sites:
   - name: maersk
     url: https://www.maersk.com.cn/portaluser/login
     icon: https://assets.maerskline.com/img/fav-icons/maeu.ico
+  - name: eporthub
+    url: http://www.eporthub.com/login?target=http://www.eporthub.com/
 
 
 status-website:
