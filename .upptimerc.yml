@@ -64,6 +64,11 @@ sites:
   - name: epanasia
     url: https://truck.epanasia.com/truck-portal/home
     icon: https://truck.epanasia.com/truck-portal/images/logo.ico
+  - name: coscoshipping
+    url: https://elines.coscoshipping.com/ebusiness/
+    icon: https://elines.coscoshipping.com/ebusiness/static/assets/favicon.ico
+    
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
