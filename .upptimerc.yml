@@ -52,6 +52,10 @@ sites:
   - name: zjetc
     url: https://www.zjetc.net/login.html
     icon: https://www.zjetc.net/images/head/ico.png
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 405
     method: GET
   - name: maersk
     url: https://www.maersk.com.cn/portaluser/login
