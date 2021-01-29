@@ -56,13 +56,14 @@ sites:
       - 200
       - 201
       - 405
-    method: GET
   - name: maersk
     url: https://www.maersk.com.cn/portaluser/login
     icon: https://assets.maerskline.com/img/fav-icons/maeu.ico
   - name: eporthub
     url: http://www.eporthub.com/login?target=http://www.eporthub.com/
-
+  - name: epanasia
+    url: https://truck.epanasia.com/truck-portal/home
+    icon: https://truck.epanasia.com/truck-portal/images/logo.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
