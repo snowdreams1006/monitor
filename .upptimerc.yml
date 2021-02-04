@@ -37,6 +37,9 @@ sites:
       - 200
       - 201
       - 404
+  - name: gotify
+    url: https://gotify.snowdreams1006.cn/#/
+    icon: https://gotify.snowdreams1006.cn/static/favicon.ico
   - name: Secret Site
     url: $SECRET_SITE
     icon: https://snowdreams1006.cn/favicon.ico
