@@ -43,9 +43,9 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
     icon: https://snowdreams1006.cn/favicon.ico
-  - name: ywdxwl
-    url: https://www.ywdxwl.com/
-    icon: https://www.ywdxwl.com/static/favicon.ico
+  - name: js56
+    url: https://js56.cn/
+    icon: https://js56.cn/static/favicon.ico
   - name: e6yun
     url: https://login.e6yun.com/Home/Index
     icon: https://login.e6yun.com/favicon.ico
