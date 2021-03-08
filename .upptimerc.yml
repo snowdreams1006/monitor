@@ -11,9 +11,6 @@ sites:
   - name: regex
     url: https://regex.snowdreams1006.cn
     icon: https://snowdreams1006.cn/favicon.ico
-  - name: mermaid-editor
-    url: https://mermaid-editor.snowdreams1006.cn
-    icon: https://snowdreams1006.cn/favicon.ico
   - name: bark
     url: https://bark.snowdreams1006.cn
     icon: https://snowdreams1006.cn/favicon.ico
