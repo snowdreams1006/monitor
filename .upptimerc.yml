@@ -63,7 +63,12 @@ sites:
       - 201
       - 405
       - 500
-      
+  - name: zjywport
+    url: http://wms.zjywport.com/index.html#/login
+    icon: http://wms.zjywport.com/favicon.ico
+  - name: fawjiefang
+    url: http://iov-ec.fawjiefang.com.cn/smartteam/#/login
+    icon: http://iov-ec.fawjiefang.com.cn/smartteam/favicon.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
